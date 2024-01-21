@@ -1,6 +1,7 @@
 **Infinite Ball**
 This is a small project i created in C++ SFML to see how collisions and bouncing work in SFML the code was created in 20 mins
 here is the preview:
+{The video is lagging SO SRY}
 
 
 
